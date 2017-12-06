@@ -33,7 +33,21 @@ h4 {
   text-decoration: underline;
     }
 
-p {
+.phonevideo p
+  {
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .images p
+    {
+      display: block;
+      margin: 0 auto;
+
+    }
+
+.copyright p {
   font-family: Verdana;
   font-weight:normal;
   font-size: 24px;
